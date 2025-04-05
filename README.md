@@ -121,7 +121,7 @@ def save_to_file():
 
 ## Demo Video
 You can view the execution of the GUI, features, and functionality in this screen recording:
-### https://drive.google.com/file/d/1xNUl5seI3YUxmkT96XjH6AzCizQRkgSB/view?usp=sharing
+### https://drive.google.com/file/d/1iZDhy1tN9TpyQGN47Ex9uQSf2ILGujqZ/view?usp=sharing
 
 ---
 
